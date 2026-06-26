@@ -1,0 +1,51 @@
+# 10DIX
+
+> Agence digitale spécialisée en création de sites web no-code (Framer) pour artisans, TPE/PME et associations en Indre-et-Loire (37), France. Fondée par Fabien.
+
+10DIX conçoit des sites web modernes, rapides et orientés conversion pour les petites structures qui n'ont pas le temps ou les compétences techniques pour gérer leur présence digitale elles-mêmes. L'agence propose également des services complémentaires : automatisation de processus, création de bases de données, et utilisation de l'intelligence artificielle pour gagner en productivité.
+
+Zone d'intervention : Tours, Montlouis-sur-Loire, Saint-Avertin, Joué-les-Tours, Saint-Cyr-sur-Loire, Amboise, Vouvray, Bléré, Azay-sur-Cher, Loches, Chinon, Larçay, Véretz, Saint-Pierre-des-Corps, et environs (Touraine, Indre-et-Loire).
+
+## Services
+
+- [Landing Page](https://www.10dix.fr/#tarifs): Page unique stratégique optimisée pour la conversion. À partir de 899€ (offre en cours), livraison en 15 jours.
+- [Site Vitrine](https://www.10dix.fr/#tarifs): Site de 3 à 5 pages avec formulaire de contact, optimisé SEO. À partir de 1599€ (offre en cours), livraison en 30 jours.
+- [Sur mesure](https://www.10dix.fr/#tarifs): Site multi-pages avec blog inclus, sur devis, selon les besoins du projet.
+- [Comparateur Landing page / Site vitrine](https://www.10dix.fr/landing-page-ou-site-vitrine): Outil pour aider à choisir le bon format de site.
+- Automatisations: amélioration des processus métier pour gagner du temps.
+- Bases de données: conception et gestion optimisée.
+- Intelligence artificielle: usages pour la productivité des petites structures.
+- Communication simple: supports visuels (affiches, flyers, cartes de visite).
+- [Générateur de signature email](https://signature.10dix.fr/): outil gratuit, sans inscription.
+
+## Méthode de travail
+
+1. Appel découverte : présentation du projet et des besoins.
+2. Création du projet : structure et contenu pensés pour la conversion.
+3. Développement : construction du site sur Framer (vitesse, SEO, responsive).
+4. Mise en ligne : publication après validation du client.
+5. Accompagnement : 30 jours de suivi et formation à l'autonomie après livraison.
+
+## Réalisations
+
+- [Herakles Patrimoine](https://www.herakles-patrimoine.fr/): Site vitrine.
+- [Loi Jeanbrun Vendée](https://loi-jeanbrun-vendee.fr/): Landing page.
+- [LN Services 37](https://lnservices37.framer.ai/): Landing page.
+- [Herakles Assurances](https://www.heraklesassurances.fr/): Site vitrine.
+- [Une Fleur Une Pensée](https://une-fleur-une-pensee-2.myshopify.com/): Site e-commerce.
+
+## Contact
+
+- Email : fabien@10dix.fr
+- Prise de rendez-vous : [Cal.com](https://cal.com/10dix)
+- Localisation : Indre-et-Loire (37), Tours et environs
+- LinkedIn : https://www.linkedin.com/company/10dix
+- Facebook : https://www.facebook.com/people/10DIX/61584451101799/
+
+## Pages utiles
+
+- [Accueil](https://www.10dix.fr/)
+- [Contact](https://www.10dix.fr/contact)
+- [Blog](https://www.10dix.fr/blog)
+- [Mentions légales](https://www.10dix.fr/mentions_légales)
+- [CGV](https://www.10dix.fr/cgv)
