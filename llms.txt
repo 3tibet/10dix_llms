@@ -1,51 +1,75 @@
-# 10DIX
+# 10Dix
 
-> Agence digitale spécialisée en création de sites web no-code (Framer) pour artisans, TPE/PME et associations en Indre-et-Loire (37), France. Fondée par Fabien.
+> Agence web basée à Montlouis-sur-Loire (Indre-et-Loire, 37), fondée par Fabien Delacoux. 10Dix crée des sites internet sur Framer et des automatisations pour les artisans, TPE-PME et associations de Tours et de Touraine. Référencée Activateur France Num.
 
-10DIX conçoit des sites web modernes, rapides et orientés conversion pour les petites structures qui n'ont pas le temps ou les compétences techniques pour gérer leur présence digitale elles-mêmes. L'agence propose également des services complémentaires : automatisation de processus, création de bases de données, et utilisation de l'intelligence artificielle pour gagner en productivité.
+10Dix aide les petites structures à gagner du temps : un site clair qui donne envie de les contacter, et des automatisations qui gèrent devis, relances et rendez-vous à leur place. Un seul interlocuteur, du premier appel à l'autonomie sur le site.
 
-Zone d'intervention : Tours, Montlouis-sur-Loire, Saint-Avertin, Joué-les-Tours, Saint-Cyr-sur-Loire, Amboise, Vouvray, Bléré, Azay-sur-Cher, Loches, Chinon, Larçay, Véretz, Saint-Pierre-des-Corps, et environs (Touraine, Indre-et-Loire).
+Zone d'intervention : Tours, Montlouis-sur-Loire, Joué-lès-Tours, Saint-Avertin, Saint-Cyr-sur-Loire, Chambray-lès-Tours, Saint-Pierre-des-Corps, Amboise, Bléré, La Riche, Fondettes, Ballan-Miré, Monts, Vouvray, et plus largement l'Indre-et-Loire (Loches, Chinon, Veigné).
 
-## Services
+## Offres et tarifs
 
-- [Landing Page](https://www.10dix.fr/#tarifs): Page unique stratégique optimisée pour la conversion. À partir de 899€ (offre en cours), livraison en 15 jours.
-- [Site Vitrine](https://www.10dix.fr/#tarifs): Site de 3 à 5 pages avec formulaire de contact, optimisé SEO. À partir de 1599€ (offre en cours), livraison en 30 jours.
-- [Sur mesure](https://www.10dix.fr/#tarifs): Site multi-pages avec blog inclus, sur devis, selon les besoins du projet.
-- [Comparateur Landing page / Site vitrine](https://www.10dix.fr/landing-page-ou-site-vitrine): Outil pour aider à choisir le bon format de site.
-- Automatisations: amélioration des processus métier pour gagner du temps.
-- Bases de données: conception et gestion optimisée.
-- Intelligence artificielle: usages pour la productivité des petites structures.
-- Communication simple: supports visuels (affiches, flyers, cartes de visite).
-- [Générateur de signature email](https://signature.10dix.fr/): outil gratuit, sans inscription.
+- [Landing page](https://www.10dix.fr/#tarifs) : une page unique, un seul objectif. 899 €, livraison en 15 jours.
+- [Site vitrine](https://www.10dix.fr/#tarifs) : 3 à 5 pages, formulaire de contact, optimisé SEO. 1 599 €, livraison en 30 jours.
+- [Refonte et sur mesure](https://www.10dix.fr/#tarifs) : site multi-pages avec blog. Sur devis, délai selon projet.
+- [Automatisations](https://www.10dix.fr/automatisations) : devis, relances, confirmations de rendez-vous, factures, suivi clients.
+- Bases de données : clients, chantiers, adhérents, stocks, centralisés et consultables sur mobile.
+- Intelligence artificielle : rédaction et assistants pour gagner en productivité.
+- Communication simple : rédaction d'articles, posts de réseaux sociaux, emailing.
 
-## Méthode de travail
+## Méthode
 
-1. Appel découverte : présentation du projet et des besoins.
-2. Création du projet : structure et contenu pensés pour la conversion.
-3. Développement : construction du site sur Framer (vitesse, SEO, responsive).
-4. Mise en ligne : publication après validation du client.
-5. Accompagnement : 30 jours de suivi et formation à l'autonomie après livraison.
+1. Appel découverte de 20 minutes, sans engagement.
+2. Création du projet : structure et contenus.
+3. Développement sur Framer : vitesse, SEO, affichage sur tous les écrans.
+4. Mise en ligne après validation du client.
+5. Accompagnement : 30 jours de suivi et formation à l'autonomie.
+
+## Pages principales
+
+- [Accueil](https://www.10dix.fr/)
+- [Création de site internet à Tours](https://www.10dix.fr/creation-site-internet-tours)
+- [Automatisations](https://www.10dix.fr/automatisations)
+- [Quiz : landing page ou site vitrine ?](https://www.10dix.fr/landing-page-ou-site-vitrine)
+- [Blog](https://www.10dix.fr/blog)
+- [Contact](https://www.10dix.fr/contact)
+
+## Articles du blog
+
+- [Fiche Google Business Profile : la fiche vous fait trouver, le site vous fait choisir](https://www.10dix.fr/blog2/fiche-google-business-profile)
+- [Le référencement à l'ère de l'IA générative : rester visible face à ChatGPT et Perplexity](https://www.10dix.fr/blog2/referencement-ia-generative-geo)
+- [Obligations légales d'un site internet pour artisans et TPE en 2026](https://www.10dix.fr/blog2/guide-complet-obligations-legales-site-internet)
+- [Facturation électronique 2026](https://www.10dix.fr/blog2/facturation-electronique)
+- [Activateur France Num](https://www.10dix.fr/blog2/activateur-france-num)
+- [Quel modèle d'intelligence artificielle choisir selon votre besoin ?](https://www.10dix.fr/blog2/quelle-ia-choisir)
+- [Comment les outils sur mesure et l'automatisation boostent les TPE et artisans](https://www.10dix.fr/blog2/comment-les-outils-sur-mesure-et-l-automatisation-boostent-les-tpe-et-artisans)
+- [L'IA générative, nouveau moteur d'interactivité pour les sites de TPE et d'artisans](https://www.10dix.fr/blog2/l-ia-generative-le-nouveau-moteur-d-interactivite)
+- [Lexique : les termes du Web expliqués simplement aux artisans](https://www.10dix.fr/blog2/lexique-les-termes-du-web-expliqu%C3%A9s-simplement-aux-artisans)
+- [Étude de cas : une TPE du 37 a quadruplé ses demandes de devis en 15 jours](https://www.10dix.fr/blog2/%C3%A9tude-de-cas)
+- [Guide comparatif : landing page ou site vitrine](https://www.10dix.fr/blog2/guide-landing-page-ou-site-vitrine)
+- [Pourquoi la vitesse d'un site Framer favorise la conversion locale](https://www.10dix.fr/blog2/vitesse-site-framer)
+- [Réussir le site internet de son association : la checklist](https://www.10dix.fr/blog2/checklist-site-internet-association)
 
 ## Réalisations
 
-- [Herakles Patrimoine](https://www.herakles-patrimoine.fr/): Site vitrine.
-- [Loi Jeanbrun Vendée](https://loi-jeanbrun-vendee.fr/): Landing page.
-- [LN Services 37](https://lnservices37.framer.ai/): Landing page.
-- [Herakles Assurances](https://www.heraklesassurances.fr/): Site vitrine.
-- [Une Fleur Une Pensée](https://une-fleur-une-pensee-2.myshopify.com/): Site e-commerce.
+- [Herakles Patrimoine](https://www.herakles-patrimoine.fr/) : site vitrine, refonte.
+- [Herakles Assurances](https://www.heraklesassurances.fr/) : site vitrine.
+- [Loi Jeanbrun Vendée](https://loi-jeanbrun-vendee.fr/) : landing page.
+- [LN Services 37](https://lnservices37.framer.ai/) : landing page.
+- [Une fleur, une pensée](https://une-fleur-une-pensee-2.myshopify.com/) : boutique en ligne.
+- [Générateur de signature email](https://signature.10dix.fr/) : outil gratuit, sans inscription.
 
 ## Contact
 
+- Adresse : 37270 Montlouis-sur-Loire, France
+- Téléphone : 06 89 40 67 71
 - Email : fabien@10dix.fr
-- Prise de rendez-vous : [Cal.com](https://cal.com/10dix)
-- Localisation : Indre-et-Loire (37), Tours et environs
-- LinkedIn : https://www.linkedin.com/company/10dix
-- Facebook : https://www.facebook.com/people/10DIX/61584451101799/
+- Prise de rendez-vous : [cal.com/10dix](https://cal.com/10dix)
+- [Page Activateur France Num](https://www.francenum.gouv.fr/activateurs/10dix)
+- [LinkedIn](https://www.linkedin.com/company/10dix)
+- [Facebook](https://www.facebook.com/people/10DIX/61584451101799/)
 
-## Pages utiles
+## Informations légales
 
-- [Accueil](https://www.10dix.fr/)
-- [Contact](https://www.10dix.fr/contact)
-- [Blog](https://www.10dix.fr/blog)
-- [Mentions légales](https://www.10dix.fr/mentions_légales)
-- [CGV](https://www.10dix.fr/cgv)
+- [Mentions légales](https://www.10dix.fr/mentions_legales)
+- [Conditions générales de vente](https://www.10dix.fr/cgv)
+- [Politique de confidentialité](https://www.10dix.fr/politique-de-confidentialite)
